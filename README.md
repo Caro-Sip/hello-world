@@ -1,4 +1,2 @@
 # hello-world
-CHEEESE
-
-Jerry was here ;o;
+Jerry was here and stole the cheese ;o;
